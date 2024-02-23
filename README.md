@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sumit sharma
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on job in MNC
 - 📫 How to reach me sumitrgsharma866@gmail.com
 
